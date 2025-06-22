@@ -4,9 +4,9 @@ Eu sou Lucas de Comi Côrte, um estudante de Ensino Médio Técnico na ETEC Prof
 
 Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, a ponto de estar desenvolvendo o meu primeiro projeto profissional, a [Central de Produtividade](https://lucasdecomi.github.io/CentralDeProdutividade/). 
 
-Na escola, estou obtendo destaque em minhas notas, sendo geralmente avaliado como bom ou muito bom. Acredito que se superar nas avaliações acadêmicas é um passo muito importante para a evolução profissional e amadurecimento para o futuro. Estou a cada dia buscando novos aprendizados e ganhando conhecimento profissional com isso.  
+Na escola, estou obtendo destaque em minhas notas, sendo geralmente avaliado positivamente. Acredito que se superar nas avaliações acadêmicas é um passo muito importante para a evolução profissional e amadurecimento para o futuro. Estou a cada dia buscando novos aprendizados e ganhando conhecimento profissional com isso.  
 
-Tenho um certo apreço no segmento de desenvolvimento de jogos digitais e, caso me surgisse uma oportunidade de emprego nessa área, com certeza aceitaria, pois seria um passo importante para minha introdução nela. No atual momento, eu faço estudos, principalmente, em desenvolvimento web, o qual estou conseguindo mais conforto a cada dia.
+Tenho um certo apreço no segmento de desenvolvimento de jogos digitais e, caso me surgisse uma oportunidade de emprego nessa área, com certeza aceitaria, pois seria um passo importante para minha introdução nela. No atual momento, venho aprofundando em desenvolvimento web e C#.
 
 ## Tecnologias
 <div>
