@@ -2,7 +2,7 @@
 
 Eu sou Lucas de Comi Côrte, um estudante de Ensino Médio Técnico na ETEC Professor Basilides de Godoy no 1° ano do curso de Desenvolvimento de Sistemas. Meu sonho é aprender a desenvolver softwares que possam transformar a vida das pessoas e evoluir a cada dia com esse desenvolvimento.
 
-Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo
+Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo.
 
 Na escola, estou obtendo destaque em minhas notas, sendo geralmente avaliado positivamente. Acredito que se superar nas avaliações acadêmicas é um passo muito importante para a evolução profissional e amadurecimento para o futuro. Estou a cada dia buscando novos aprendizados e ganhando conhecimento profissional com isso.  
 
