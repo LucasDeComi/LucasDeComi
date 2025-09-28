@@ -2,7 +2,7 @@
 
 Eu sou Lucas de Comi Côrte, um estudante de Ensino Médio Técnico na ETEC Professor Basilides de Godoy no 1° ano do curso de Desenvolvimento de Sistemas. Meu sonho é aprender a desenvolver softwares que possam transformar a vida das pessoas e evoluir a cada dia com esse desenvolvimento.
 
-Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, a ponto de estar desenvolvendo o meu primeiro projeto profissional, a [Central de Produtividade](https://lucasdecomi.github.io/CentralDeProdutividade/). 
+Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo
 
 Na escola, estou obtendo destaque em minhas notas, sendo geralmente avaliado positivamente. Acredito que se superar nas avaliações acadêmicas é um passo muito importante para a evolução profissional e amadurecimento para o futuro. Estou a cada dia buscando novos aprendizados e ganhando conhecimento profissional com isso.  
 
@@ -13,6 +13,8 @@ Tenho um certo apreço no segmento de desenvolvimento de jogos digitais e, caso 
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javacript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
