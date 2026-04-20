@@ -4,7 +4,7 @@ Eu sou Lucas de Comi Côrte, tenho 16 anos e estou cursando o 2o ano do Ensino M
 
 Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo. Sou um aluno muito interessado em adquirir novos aprendizados e um profissional dedicado a alcançar objetivos, produzir novos projetos, expandir meu repertório e dominar as tecnologias que o mercado demanda na atualidade.
 
-No atual momento, não trabalho em um emprego formal, mas estou aberto a novas oportunidades. Além disso, estou começando meus próprios projetos pessoais, como o <a href="https://github.com/Notify-Systems" target="_blank">Notify Systems</a>, grupo criador do aplicativo de network e organização de tarefas <a href="https://github.com/Notify-Systems/Notify" target="_blank">Notify</a>, ainda em desenvolvimento.
+No atual momento, não trabalho em um emprego formal, mas estou aberto a novas oportunidades. Além disso, estou começando meus próprios projetos pessoais, como o <a href="https://github.com/Notify-Systems" target="_blank">Notify Systems</a>, grupo criador do aplicativo de network e organização de tarefas <a href="https://github.com/Notify-Systems/Notify" target="_blank">Notify</a>, ainda em desenvolvimento. No momento atual, sou o desenvolvedor das ideias e líder do projeto.
 
 ## Tecnologias
 <div>
