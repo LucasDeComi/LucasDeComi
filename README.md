@@ -1,12 +1,10 @@
 ## Hello, World!
 
-Eu sou Lucas de Comi Côrte, um estudante de Ensino Médio Técnico na ETEC Professor Basilides de Godoy no 2° ano do curso de Desenvolvimento de Sistemas. Meu sonho é aprender a desenvolver softwares que possam transformar a vida das pessoas e evoluir a cada dia com esse desenvolvimento.
+Eu sou Lucas de Comi Côrte, tenho 16 anos e estou cursando o 2o ano do Ensino Médio Técnico de Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy. Meu sonho é aprender a desenvolver softwares que possam transformar a vida das pessoas e evoluir a cada dia com meus aprendizados.
 
-Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo.
+Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo. Sou um aluno muito interessado em adquirir novos aprendizados e um profissional dedicado a alcançar objetivos, produzir novos projetos, expandir meu repertório e dominar as tecnologias que o mercado demanda na atualidade.
 
-Na escola, estou obtendo destaque em minhas notas, sendo geralmente avaliado positivamente. Acredito que se superar nas avaliações acadêmicas é um passo muito importante para a evolução profissional e amadurecimento para o futuro. Estou a cada dia buscando novos aprendizados e ganhando conhecimento profissional com isso.  
-
-Tenho um certo apreço no segmento de desenvolvimento de jogos digitais e, caso me surgisse uma oportunidade de emprego nessa área, com certeza aceitaria, pois seria um passo importante para minha introdução nela. No atual momento, venho aprofundando em desenvolvimento web e C#.
+No atual momento, não trabalho em um emprego formal, mas estou aberto a novas oportunidades. Além disso, estou começando meus próprios projetos pessoais, como o <a href="https://github.com/Notify-Systems" target="_blank">Notify Systems</a>, grupo criador do aplicativo de network e organização de tarefas <a href="https://github.com/Notify-Systems/Notify" target="_blank">Notify</a>, ainda em desenvolvimento.
 
 ## Tecnologias
 <div>
@@ -26,4 +24,18 @@ Tenho um certo apreço no segmento de desenvolvimento de jogos digitais e, caso 
   <a href="https://www.linkedin.com/in/lucas-de-comi-côrte-7090ba363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://mail.google.com/mail/?view=cm&to=lcorte110210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5511958508663&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/-Whatsapp-%1DA851?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
+
+## GitHub Status
+
+<div style="display: inline-block">  
+  <img align="center" alt="Stats" width="425" src="https://githubstats-umber.vercel.app/api?username=lucasdecomi&show_icons=true&theme=dark">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=lucasdecomi&layout=donut&theme=dark&hide=html,css,portugol">
 </div>
