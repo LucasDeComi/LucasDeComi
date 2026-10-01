@@ -1,23 +1,34 @@
-## Hello, World!
+# Hello, World!
 
-Eu sou Lucas de Comi Côrte, tenho 16 anos e estou cursando o 2o ano do Ensino Médio Técnico de Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy. Meu sonho é aprender a desenvolver softwares que possam transformar a vida das pessoas e evoluir a cada dia com meus aprendizados.
+  > Eu sou Lucas de Comi Côrte, tenho 16 anos e estou cursando o 2o ano do Ensino Médio Técnico de Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy. Meu sonho é aprender a desenvolver softwares que possam transformar a vida das pessoas e evoluir a cada dia com meus aprendizados.
 
-Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo. Sou um aluno muito interessado em adquirir novos aprendizados e um profissional dedicado a alcançar objetivos, produzir novos projetos, expandir meu repertório e dominar as tecnologias que o mercado demanda na atualidade.
+  > Meus primeiros passos na programação começaram em fevereiro de 2025 e, desde então, venho aprimorando minhas habilidades cada vez mais, e desenvolvi meus primeiros projetos profissionais e para estudo. Sou um aluno muito interessado em adquirir novos aprendizados e um profissional dedicado a alcançar objetivos, produzir novos projetos, expandir meu repertório e dominar as tecnologias que o mercado demanda na atualidade.
 
-No atual momento, trabalho como desenvolvedor fullstack numa Iniciação Científica pela USP na Rede Lucy Montoro IMREA, no setor de Bioengenharia. Além disso, estou começando meus próprios projetos pessoais, como o <a href="https://github.com/Notify-Systems" target="_blank">Notify Systems</a>, grupo criador do aplicativo de network e organização de tarefas <a href="https://github.com/Notify-Systems/Notify" target="_blank">Notify</a>, ainda em desenvolvimento. No momento atual, sou o desenvolvedor das ideias e líder do projeto.
+  > No atual momento, trabalho como desenvolvedor fullstack numa Iniciação Científica pela USP na Rede Lucy Montoro IMREA, no setor de Bioengenharia. Além disso, estou começando meus próprios projetos pessoais, como o <a href="https://github.com/Notify-Systems" target="_blank">Notify Systems</a>, grupo criador do aplicativo de network e organização de tarefas <a href="https://github.com/Notify-Systems/Notify" target="_blank">Notify</a>, ainda em desenvolvimento. No momento atual, sou o desenvolvedor das ideias e líder do projeto.
 
-## Tecnologias
-<div>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## Skills
+- <div style="display: inline_block">
+    <h4>Tecnologias</h4>
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
+
+- <div style="display: inline_block">
+    <h4>Ferramentas</h4>
+    <img align="center" alt="VS Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  </div>
 
 ## Redes
 
